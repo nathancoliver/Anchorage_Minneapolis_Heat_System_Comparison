@@ -56,21 +56,71 @@ data2 = {'forced air': [50176], 'hot water': [
 df1 = pd.DataFrame(data1)
 df2 = pd.DataFrame(data2)
 
+label1_numbers = df1.iloc[0, :]
+label1 = ['', '', '', '', '']
+print(label1[0])
+
+labels1 = ['Forced Air\n49.9%', 'Hot Water\n45.4%', '', '', '']
+labels2 = ['Forced Air\n70.5%', 'Hot Water\n25.3%', '', '']
+
+
+# label1_columns = df1.columns
+
+# for i in range(5):
+#     label1[i] = label1_columns[i] + ' ' + label1_numbers[i]
+#     print(i)
+#     # label1[i] = i
+
+# print(label1)
+
 
 fig, (ax1, ax2) = plt.subplots(1, 2, sharex=True, figsize=(20, 8))
 
 colors = ['#ea4335', '#a460dc', '#edc948',
           '#34a853', '#76b7b2', '#4e79a7', '#4285f4']
 
-colors1 = ['#34a853', '#4285f4', '#a460dc', '#e15759', 'black']
-colors2 = ['#34a853', '#4285f4', '#edc948', 'black']
+colors1 = ['#34a853', '#4285f4', '#a460dc', '#e15759', 'grey']
+colors2 = ['#34a853', '#4285f4', '#edc948', 'grey']
+
+label_size = 12
+
+ax1.pie(df1.iloc[0, :] / sum(df1.iloc[0, :]), labels=labels1,
+        colors=colors1, pctdistance=1.3, labeldistance=0.5, textprops=dict(ha='center', va='center', weight='bold', size=label_size))
+
+ax2.pie(df2.iloc[0, :] / sum(df2.iloc[0, :]), labels=labels2, colors=colors2,
+        pctdistance=1.3, labeldistance=0.5, textprops=dict(ha='center', va='center', weight='bold', size=label_size))
 
 
-ax1.pie(df1.iloc[0, :], labels=df1.columns, colors=colors1)
-ax2.pie(df2.iloc[0, :], labels=df2.columns, colors=colors2)
+sub_title_size = 15
+main_title_size = 20
+ax1.set_title('Anchorage, AK', size=sub_title_size)
+ax2.set_title('Minneapolis, MN', size=sub_title_size)
+fig.suptitle('Single-Family Home\nSpace Heat System Comparison',
+             size=main_title_size)
 
-ax1.set_title('Anchorage, AK')
-ax2.set_title('Minneapolis, MN')
+ax1.text(1.35, 0.2, 'Other\n0.3%', color='black',
+         weight='bold', size=label_size, ha="center", va="center")
 
+ax1.text(1.4, -0.1, 'Electric\n1.4%', color='black',
+         weight='bold', size=label_size, ha="center", va="center")
+
+ax1.text(1.35, -0.4, 'Radiant\n 3.0%', color='black',
+         weight='bold', size=label_size, ha="center", va="center")
+
+ax2.text(1.4, 0, 'Other\n0.7%', color='black',
+         weight='bold', size=label_size, ha="center", va="center")
+
+ax2.text(1.4, -0.25, 'Gravity\n3.6%', color='black',
+         weight='bold', size=label_size, ha="center", va="center")
+
+ax1.plot((1.2, 1), (0.2, 0), color='black', linewidth=1)
+ax1.plot((1.2, 1), (-0.1, -0.05), color='black', linewidth=1)
+ax1.plot((1.15, 0.98), (-0.35, -0.2), color='black', linewidth=1)
+
+ax2.plot((1.23, 1), (0.03, -0.02), color='black', linewidth=1)
+ax2.plot((1.18, 0.99), (-0.2, -0.15), color='black', linewidth=1)
+
+# 'Gravity\n 3.6%', 'Other\n0.7%'
+# 'Radiant\n 3.0%', 'Electric\n1.4%', 'Other\n0.3%'
 
 plt.show()
