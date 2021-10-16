@@ -1,5 +1,14 @@
 # Anchorage and Minneapolis Heating System Comparison
 
+# Abstract
+
+* Over 95% of the heating systems in Anchorage and Minneapolis are either forced air or hot water.
+* Forced air heating systems are the most common heating system in both cities.
+* 70% of the heating systems in Minneapolis are forced air due to its ability to be used for both heating and cooling.
+* Every year since 1960, anywhere between 85% and 100% of new Minneapolis homes were installed with forced air systems. 
+* Hot water and gravity heating systems account for 25% and 3% of heating systems in Minneapolis, respectively, which were mostly built in the first half of the 20th century.
+* Forced air and hot water systems account for 50% and 45% of heating systems in Anchorage, respectively. 
+
 # Overview of Anchorage and Minneapolis
 
 **Anchorage, AK**
