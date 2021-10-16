@@ -37,6 +37,8 @@ The Municipality of Anchorage and the City of Minneapolis manages public data in
 
 ![1](Anchorage_Minneapolis_Climate/png/Figure_1.png)
 
+Temperatures in Minneapolis in the summer tend to be about 10°F higher in the summer months, 5°F degrees in the spring and fall, and similar temperatures in the winter. Even though summer temperatures in Anchorage and Minneapolis are only different by about 10°F, the key is that the daily mean temperatures from June to mid-September in Minneapolis are above the 65°F threshold whereas Anchorage the average daily mean temperatures from 1990-2020 are below the same threshold. The 65°F threshold is typically used to determine if the homes in a particular city need a cooling system. The 3.5 month period of hot summer temperatures in Minneapolis drives home-builders to install forced air systems, which can be used for both heating and cooling system. Anchorage home owners can generally get away with opening windows if summer temperatures get to high, and also do not warant the need to invest in a cooling system. This allows home builders to choose other heating system options, such as radiant floor boards.
+
 **Anchorage and Minneapolis Heating and Cooling Day Comparison**
 
 ![1](Anchorage_Minneapolis_Heating_Cooling_Days/png/Figure_1_extended.png)
@@ -49,8 +51,10 @@ The Municipality of Anchorage and the City of Minneapolis manages public data in
 
 ![1](Anchorage_Water_Heat/png/Figure_1.png)
 
-The figure below shows the annual share of heating systems installed in new single-family homes, as well as the number of new single-family homes per year. During the housing boom in the 1970s and 1980s, hot water baseboards were the overwhelming favorite by homebuilders, and are a coomon sight in older Anchorage homes. Electric baseboards were occasionally installed for a brief period in the 1970s as a result of the oil crisis, and have rarely been used since. The 1980s also saw a surge in forced air systems, and have maintained a a steady and significant share of the installed heating system share since the switch from hot water. Radiant floor heating has been shown some favor by homebuilders, taking in a share of 15% to 25% since 2005.
+The figure above shows the annual share of heating systems installed in new single-family homes, as well as the number of new single-family homes per year. During the housing boom in the 1970s and 1980s, hot water baseboards were the overwhelming favorite by homebuilders, and are a coomon sight in older Anchorage homes. Electric baseboards were occasionally installed for a brief period in the 1970s as a result of the oil crisis, and have rarely been used since. The 1980s also saw a surge in forced air systems, and have maintained a a steady and significant share of the installed heating system share since the switch from hot water. Radiant floor heating has been shown some favor by homebuilders, taking in a share of 15% to 25% since 2005.
 
 **Minneapolis Annual Heating System Market Share**
 
 ![1](Minneapolis_Water_Heat/png/Figure_1.png)
+
+Forced air heating systems have consistently been installed in new Minneapolis homes due to its ability to be used for both heating and cooling. In the early 20th century, gravity systems were commonly installed in homes across the US, but after WWII, forced air systems become the dominant heating system in Minneapolis. Geothermal heat pump systems could be a possible alternative to forced air systems due to an imminent push to electricity any energy system in not just the residential sector, but in the commercial, transportation and industrial sectors. If properly installed and sized to the homes energy needs, geothermal heat pumps can provide 100% of space heating and cooling requirements.
