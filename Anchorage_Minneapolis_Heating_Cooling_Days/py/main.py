@@ -30,6 +30,9 @@ ax.set_yticks(np.arange(0, 12000, 2000))
 ax.set_yticklabels(np.arange(0, 12000, 2000), size=15)
 ax.legend(['Heating Days', 'Cooling Days'], fontsize=15)
 
+plt.text(0.12, 0.01, 'Note: Heating and cooling days calculated using climate data from the NOAA',
+         transform=plt.gcf().transFigure)
+
 
 # ax.plot(x_new, y_new)
 
