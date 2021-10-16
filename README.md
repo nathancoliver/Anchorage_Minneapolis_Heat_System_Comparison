@@ -23,7 +23,7 @@ Minneapolis is the largest city in Minnesota with a population of 430,000 in the
 
 * **Gravity** - A gravity furnace takes advantage of gravity to transport heated air thoughout the home. Typically placed in the basement and air is vented through ductwork to rooms in the home. This is an older system which was commonly used in Minneapolis and the US in the 1930s.
 
-Using public data from the Anchorage government, this project will evaluate the changes in the share of heating systems for new signle-family homes from 1960 to 2019.
+Using public data from the Anchorage and Minneapolis city governments, this project will evaluate the changes in the share of heating systems for new single-family homes from 1960 to 2020.
 
 # Method
 
