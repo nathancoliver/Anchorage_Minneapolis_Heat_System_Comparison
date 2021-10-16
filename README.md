@@ -49,6 +49,8 @@ The data used to calculate the heating and cooling days was NOAA average daily m
 
 ![1](Anchorage_Minneapolis_Space_Heat_Comparison/png/Figure_1.png)
 
+About 70% of the heating systems in single-family homes in Minneapolis are forced air systems due to its ability to be used for heating and cooling, with hot water baseboards and gravity furnaces installed in Minneapolis homes during the first half of the 20th century. Newer Anchorage homes generally have forced air systems, and older homes built in the 60s, 70s, and 80s typically use baseboards for heating.
+
 **Anchorage Annual Heating System Market Share**
 
 ![1](Anchorage_Water_Heat/png/Figure_1.png)
