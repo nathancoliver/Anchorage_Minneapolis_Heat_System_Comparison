@@ -1,4 +1,4 @@
-# Anchorage_Minneapolis_Heat_System_Comparison
+# Anchorage and Minneapolis Heating System Comparison
 
 # Overview
 
