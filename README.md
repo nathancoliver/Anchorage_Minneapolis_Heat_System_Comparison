@@ -1,6 +1,6 @@
 # Anchorage and Minneapolis Heating System Comparison
 
-# Overview
+# Overview of Anchorage and Minneapolis
 
 **Anchorage, AK**
 
@@ -9,7 +9,7 @@ Heating homes is typically done nearly year-round, and most commonly burn natura
 
 **Minneapolis, MN**
 
-Minneapolis is the largest city in Minnesota with a population of 430,000 in the city proper and approximately 3.7 million in the urban area. Most of the heating systems in the city of Minneapolis are forced air systems, which can be used for cooling in the summer months. 
+Minneapolis is the largest city in Minnesota with a population of 430,000 in the city proper and approximately 3.7 million in the urban area. Most of the year is spent heating homes due to the harsh winter temperatures, but there is a 3.5 month span where temperatures get high enough that investing in a cooling system is a worthwhile investment. Most of the heating systems in the city of Minneapolis are forced air systems, which can also be used for cooling in the summer months. 
 
 # Common Heating Systems
 
