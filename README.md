@@ -43,6 +43,8 @@ Temperatures in Minneapolis in the summer tend to be about 10°F higher in the s
 
 ![1](Anchorage_Minneapolis_Heating_Cooling_Days/png/Figure_1_extended.png)
 
+The data used to calculate the heating and cooling days was NOAA average daily mean temperatures from 1990-2020. Anchorage has more heating days due to the lower temperatures thorughout the year, with Minneapolis having cooling days in the summer months. Even though the above chart shows Anchorage with no cooling days, there have been some heat waves, particularly in July 2019, that accumlated cooling days. 
+
 **Anchorage and Minneapolis Heating System Comparison**
 
 ![1](Anchorage_Minneapolis_Space_Heat_Comparison/png/Figure_1.png)
