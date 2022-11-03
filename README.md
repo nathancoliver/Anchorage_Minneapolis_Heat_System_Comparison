@@ -62,7 +62,7 @@ About 70% of the heating systems in single-family homes in Minneapolis are force
 
 **Anchorage Annual Heating System Market Share**
 
-![1](Anchorage_Water_Heat/png/Figure_1.png)
+![1](Anchorage_Water_Heat/png/Figure_2.png)
 
 The figure above shows the annual share of heating systems installed in new single-family homes, as well as the number of new single-family homes per year. During the housing boom in the 1970s and 1980s, hot water baseboards were the overwhelming favorite by homebuilders, and are a coomon sight in older Anchorage homes. Electric baseboards were occasionally installed for a brief period in the 1970s as a result of the oil crisis, and have rarely been used since. The 1980s also saw a surge in forced air systems, and have maintained a a steady and significant share of the installed heating system share since the switch from hot water. Radiant floor heating has been shown some favor by homebuilders, taking in a share of 15% to 25% since 2005.
 
